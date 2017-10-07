@@ -10,3 +10,15 @@ c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts a
 c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\obj\Debug\Alerts and Windows.csprojResolveAssemblyReference.cache
 c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\obj\Debug\Alerts and Windows.exe
 c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\obj\Debug\Alerts and Windows.pdb
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe.config
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.pdb
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\nunit.framework.dll
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.dll
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.Support.dll
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\nunit.framework.xml
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.xml
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.Support.xml
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.csprojResolveAssemblyReference.cache
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.exe
+C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.pdb
