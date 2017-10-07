@@ -1,0 +1,12 @@
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\Alerts and Windows.exe.config
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\Alerts and Windows.exe
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\Alerts and Windows.pdb
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\nunit.framework.dll
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\WebDriver.dll
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\WebDriver.Support.dll
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\nunit.framework.xml
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\WebDriver.xml
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\bin\Debug\WebDriver.Support.xml
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\obj\Debug\Alerts and Windows.csprojResolveAssemblyReference.cache
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\obj\Debug\Alerts and Windows.exe
+c:\users\afahe\documents\visual studio 2017\Projects\Alerts and Windows\Alerts and Windows\obj\Debug\Alerts and Windows.pdb
