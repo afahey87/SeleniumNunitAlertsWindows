@@ -29,16 +29,19 @@ namespace Alerts_and_Windows
         [Test]
         public void shouldOpenTermsWindowAndCloseIt()
         {
-            String parentWindow = driver.CurrentWindowHandle;           //This creates a refrence point to teh main window in the form of a string.
+            // This creates a refrence point to the main window in the form of a string.
+            String parentWindow = driver.CurrentWindowHandle;           
             driver.FindElement(By.Id("footer_term")).Click();
             
             foreach (string window in driver.WindowHandles)
             {
-                driver.SwitchTo().Window(window);                       // This switchs control to the child window. 
+                // This switchs control to the child window. 
+                driver.SwitchTo().Window(window);                       
             }
             Assert.True(driver.Url.Contains("term"));
 
-            driver.Close();                                            // This closes the child window. 
+            // This closes the child window.
+            driver.Close();                                            
             driver.SwitchTo().Window(parentWindow);
             Assert.True(driver.Title.Contains("Home"));
         }
@@ -47,13 +50,30 @@ namespace Alerts_and_Windows
         public void shouldBeAbleToClosePopup()
         {
             driver.FindElement(By.Id("contact_link")).Click();
-            driver.FindElement(By.Id("submit_message")).Click();          //Popup shopuld be triggered now. 
+            // Popup shopuld be triggered now. 
+            driver.FindElement(By.Id("submit_message")).Click();         
 
             IAlert popup = driver.SwitchTo().Alert();
-            Assert.True(popup.Text.Contains("empty"));                  //Verify Popup
+            // Verify Popup
+            Assert.True(popup.Text.Contains("empty"));
 
-            popup.Accept();                                             // Accept Popup
-            Assert.True(driver.Title.Contains("Contact"));                //Verify that we are back on the maine page of the screen. 
+            // Accept Popup
+            popup.Accept();
+            // Verify that we are back on the main page of the screen. 
+            Assert.True(driver.Title.Contains("Contact"));
+
+  
+
+            // *** Fill out data fields. *** 
+            driver.FindElement(By.Name("name_field")).SendKeys("Bob Smith");
+            driver.FindElement(By.Name("address_field")).SendKeys(" 123 Elm street");
+            driver.FindElement(By.Name("postcode_field")).SendKeys("04101");
+            driver.FindElement(By.Name("email_field")).SendKeys("bob.smith@email.com");
+            driver.FindElement(By.Id("submit_message")).Click();
+            // Verify the submit with confirmation page. 
+            Assert.True(driver.Url.Contains("contact_confirm"));
+
+
 
         }
     }

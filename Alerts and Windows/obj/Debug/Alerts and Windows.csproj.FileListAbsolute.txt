@@ -22,3 +22,16 @@ C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bi
 C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.csprojResolveAssemblyReference.cache
 C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.exe
 C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.pdb
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe.config
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.pdb
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\nunit.framework.dll
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.dll
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.Support.dll
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\nunit.framework.xml
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.xml
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\WebDriver.Support.xml
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.csprojResolveAssemblyReference.cache
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.csproj.CoreCompileInputs.cache
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.exe
+C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\obj\Debug\Alerts and Windows.pdb

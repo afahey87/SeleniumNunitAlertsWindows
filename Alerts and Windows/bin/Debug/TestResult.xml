@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-10-07" time="15:36:56">
-  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8794" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\NunitTesting\NUnit-2.6.3\bin" machine-name="DESKTOP-I6A8LRP" user="afahe" user-domain="DESKTOP-I6A8LRP" />
+<test-results name="C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-10-11" time="08:15:15">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8762" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="FALPPLT-AFAHEY2" user="adam.fahey" user-domain="TYLER" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Users\afahe\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe" executed="True" result="Success" success="True" time="17.400" asserts="0">
+  <test-suite type="Assembly" name="C:\Users\adam.fahey\Documents\GitHub\SeleniumNunitAlertsWindows\Alerts and Windows\bin\Debug\Alerts and Windows.exe" executed="True" result="Success" success="True" time="21.891" asserts="0">
     <results>
-      <test-suite type="Namespace" name="Alerts_and_Windows" executed="True" result="Success" success="True" time="17.389" asserts="0">
+      <test-suite type="Namespace" name="Alerts_and_Windows" executed="True" result="Success" success="True" time="21.881" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="WebDriverTestAlertsandWindows" executed="True" result="Success" success="True" time="17.369" asserts="0">
+          <test-suite type="TestFixture" name="WebDriverTestAlertsandWindows" executed="True" result="Success" success="True" time="21.878" asserts="0">
             <results>
-              <test-case name="Alerts_and_Windows.WebDriverTestAlertsandWindows.shouldBeAbleToClosePopup" executed="True" result="Success" success="True" time="9.290" asserts="0" />
-              <test-case name="Alerts_and_Windows.WebDriverTestAlertsandWindows.shouldOpenTermsWindowAndCloseIt" executed="True" result="Success" success="True" time="8.056" asserts="0" />
+              <test-case name="Alerts_and_Windows.WebDriverTestAlertsandWindows.shouldBeAbleToClosePopup" executed="True" result="Success" success="True" time="12.541" asserts="0" />
+              <test-case name="Alerts_and_Windows.WebDriverTestAlertsandWindows.shouldOpenTermsWindowAndCloseIt" executed="True" result="Success" success="True" time="9.316" asserts="0" />
             </results>
           </test-suite>
         </results>
